@@ -1,5 +1,15 @@
 # CAFP
-Implementation of CAFP Algorithm
+Frequent Itemset Mining Using FP-Tree: A Cellular Learning Automata Based Approach
+
+## Description
+ CAFP uses Cellular Learning Automata (CLA) and multiple FP tree structures for frequent itemset mining that is efficient in both time and memory requirements. 
+ Dense dataset (DDS) has been proposed for compact representation of the larger input transaction dataset. This optimizes both time and memory as a larger dataset scan can be avoided in successive mining steps.
+
+
+## Citation details
+If you use the source code in your work please reference this work by citing the following paper:
+Ghosh, M., Roy, A., Sil, P. et al. Frequent itemset mining using FP-tree: a CLA-based approach and its extended application in biodiversity data. Innovations Syst Softw Eng 19, 283–301 (2023). https://doi.org/10.1007/s11334-022-00500-3
+
 
 ### Prerequisites
 
